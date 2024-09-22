@@ -1,6 +1,6 @@
 Hi, I’m @Racheal-star,
 
-👀 I’m interested in Machine Learning
+👀 I’m interested in Machine Learning and software development
 
 🌱 I’m currently learning about machine learning algorithms and their applications.
 
