@@ -1,16 +1,16 @@
 Hi, I’m @Racheal-star,
 
-👀 I’m interested in Machine Learning
+ I’m interested in Data Sciene, Machine Learning, and Artificial Intelligence
 
-🌱 I’m currently learning about machine learning algorithms and their applications.
+I’m currently learning about machine learning algorithms and their applications.
 
-💞️ I’m looking to collaborate on projects involving predictive modeling or data analysis.
+ I’m looking to collaborate on projects involving predictive modeling or data analysis.
 
-📫 How to reach me:www.linkedin.com/in/racheal-onimisi4345
+ How to reach me:www.linkedin.com/in/racheal-onimisi4345
 
-😄 Pronouns: she/her
+ Pronouns: she/her
 
-⚡ Fun fact: I love exploring new datasets and finding hidden patterns in data!
+ Fun fact: I love exploring new datasets and finding hidden patterns in data!
 
 <!---
 Racheal-star/Racheal-star is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
