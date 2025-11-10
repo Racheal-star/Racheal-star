@@ -1,6 +1,6 @@
 Hi, I’m @Racheal-star,
 
- I’m interested in Data Sciene, Machine Learning, and Artificial Intelligence
+ I’m interested in Software Development, Data Science, Machine Learning, and Artificial Intelligence
 
 I’m currently learning about machine learning algorithms and their applications.
 
